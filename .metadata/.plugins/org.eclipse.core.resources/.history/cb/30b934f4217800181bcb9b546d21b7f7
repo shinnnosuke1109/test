@@ -1,0 +1,14 @@
+package jp.co.internous.action;
+
+public class Test_2 {
+	public static void main(String[]args){
+		Person_2 p=new Person_2();
+
+	Person_2 taro= new Person_2();
+	taro.name= "taro";
+	taro.age=18;
+
+
+	}
+
+}

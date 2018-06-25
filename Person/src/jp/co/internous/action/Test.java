@@ -37,6 +37,9 @@ public class Test {
 		System.out.println(shin.seibetu);
 		System.out.println(shin.phoneNumber);
 		System.out.println(shin.address);
-	}
 
+		shin.talk();
+		hanako.talk();
+		jiro.talk();
+	}
 }
