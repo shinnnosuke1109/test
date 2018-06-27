@@ -1,0 +1,15 @@
+
+
+
+/**
+ * 
+ */
+package sql;
+
+/**
+ * @author internousdev
+ *
+ */
+public class DBConnector {
+
+}
