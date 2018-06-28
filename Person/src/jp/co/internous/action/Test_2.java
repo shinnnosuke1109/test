@@ -22,7 +22,7 @@ public class Test_2 {
 	System.out.println(namae.name);
 	System.out.println(namae.age);
 
-	Person_2 hanako=new Person_2("hanako",17);
+	Person_2 hanako=new Person_2(17,"hanako");
 	System.out.println(hanako.name);
 	System.out.println(hanako.age);
 
