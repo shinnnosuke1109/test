@@ -13,6 +13,8 @@
 
 <input type="button" value="問い合わせ" onClick="location.href='inquiry.jsp'">
 
+<input type="button" value="MySQLServlet" onClick="location.href='MySQLServlet'">;
+<br>
 
 GET通信
 <form method="get" action="TestServlet">
@@ -27,5 +29,7 @@ POST通信
 <input type="password" name="password">
 <input type="submit" value="送信">
 </form>
+
+
 </body>
 </html>
