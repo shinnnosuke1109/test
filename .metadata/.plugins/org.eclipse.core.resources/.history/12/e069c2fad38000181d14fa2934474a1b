@@ -1,0 +1,10 @@
+package com.internousdev.webproj2.action;
+
+import com.internousdev.webproj2.dao.HelloStrutsDAO;
+import com.opensympohony.xwork2.ActionSupport;
+
+
+public class HelloStrutsAction extends Actionpoort{
+
+
+}
