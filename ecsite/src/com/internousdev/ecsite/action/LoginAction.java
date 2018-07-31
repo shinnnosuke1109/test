@@ -54,4 +54,3 @@ public class LoginAction extends ActionSupport implements SessionAware {
 	}
 }
 
-

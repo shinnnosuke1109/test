@@ -102,7 +102,7 @@ text-align: right;
 							<s:submit value="削除" method="delete" />
 						</s:form>
 					</s:elseif>
-					<s:if test="message ! = null">
+					<s:if test="message != null">
 							<h3><s:property value="message" /></h3>
 					</s:if>
 
